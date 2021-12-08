@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-  cout<<"Hello World";
-  cout<<"\n";
+  int a = 54;
+  char b= 'k';
+  cout<<"a = "<<a<<" b = "<<b<<" \n";
 }
