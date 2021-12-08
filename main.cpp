@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-  int a = 54;
-  char b= 'k';
-  cout<<"a = "<<a<<" b = "<<b<<" \n";
+  cout<<"What\'s your Name   : \n";
+  cout<<"Enter Load Numbers : \n";
 }
